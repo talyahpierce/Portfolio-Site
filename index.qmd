@@ -4,7 +4,9 @@ title: "Home"
 
 # TALYAH PIERCE {#welcome}
 
-Hi! I'm Talyah Pierce, and I'm a City Planning graduate student at the University of Pennsylvania. My undergraduate background is in Urban Studies and Data Science also at Penn. My coursework has focused on public policy, real estate, and statistical and spatial analysis. I’ve worked on a variety of research projects in international development and criminology while at Penn. I’ve also partnered with external organizations like the World Bank and the UN. These experiences helped me develop strong quantitative and collaborative research skills while working on real-world projects.
+Hi! I'm Talyah Pierce. I'm a City Planning graduate student at the University of Pennsylvania, focusing on urban data analytics and public-private development. Currently, I am an intern at the Reinvestment Fund, where I assist with cleaning, analyzing, and mapping housing data in the community development finance sector. 
+
+As an undergraduate, I studied Urban Studies and Data Science, also at the University of Pennsylvania, with coursework focused on public policy, real estate, and statistical and spatial analysis. Throughout my undergraduate career, I worked on a variety of research projects in international development, political science, and criminology, working with external organizations like the World Bank, the United Nations, and the NBC Decision Desk. For my senior thesis, I explored whether rapid transit access was associated with in-person voter turnout and whether this relationship varied with neighborhood poverty, qualifying for the Honors designation. Altogether, these experiences helped me develop strong quantitative and collaborative research skills, which I am seeking to contribute to areas of urban research, affordable housing development, and the community development finance sector.
 
 
 ## WORK
@@ -17,4 +19,3 @@ Hi! I'm Talyah Pierce, and I'm a City Planning graduate student at the Universit
 
 - Email: talyah@sas.upenn.edu
 - LinkedIn: [Talyah Pierce](www.linkedin.com/in/talyah-pierce-a37842288) 
-- GitHub: @talyahpierce
