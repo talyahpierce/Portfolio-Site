@@ -4,8 +4,8 @@ project:
   execute-dir: project
 
 website:
-  title: "YOUR NAME HERE - MUSA 5080 Portfolio"        # <-- CHANGE THIS
-  description: "Public Policy Analytics portfolio"
+  title: "Talyah Pierce - Portfolio Site"
+  description: "Digital portfolio"
   navbar:
     title: "Portfolio"
     left:
@@ -13,13 +13,15 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: weekly-notes/index.qmd
-        text: "Weekly Notes"
-      - href: assignments/index.qmd
-        text: "Assignments"
+      - href: Academic Research/index.qmd
+        text: "Academic Research"
+      - href: Planning Projects/index.qmd
+        text: "Planning Projects"
+      - href: Resume/index.qmd
+        text: "Resume"
     right:
       - icon: github
-        href: https://github.com/YOUR-USERNAME-HERE/MUSA-5080-portfolio      # <-- CHANGE THIS
+        href: https://github.com/talyahpierce/Portfolio-Site
 
 format:
   html:

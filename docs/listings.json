@@ -1,12 +1,12 @@
 [
   {
-    "listing": "/assignments/index.html",
+    "listing": "/Planning Projects/index.html",
     "items": []
   },
   {
-    "listing": "/weekly-notes/index.html",
+    "listing": "/Academic Research/index.html",
     "items": [
-      "/weekly-notes/week-01.html"
+      "/Academic Research/week-01.html"
     ]
   }
 ]
