@@ -11,14 +11,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
       - href: Academic Research/index.qmd
         text: "Academic Research"
       - href: Planning Projects/index.qmd
         text: "Planning Projects"
-      - href: Resume/index.qmd
-        text: "Resume"
     right:
       - icon: github
         href: https://github.com/talyahpierce/Portfolio-Site

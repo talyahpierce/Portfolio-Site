@@ -6,13 +6,11 @@
     ]
   },
   {
-    "listing": "/Resume/index.html",
-    "items": [
-      "/Resume/week-01.html"
-    ]
+    "listing": "/Planning Projects/index.html",
+    "items": []
   },
   {
-    "listing": "/Planning Projects/index.html",
+    "listing": "/Resume/index.html",
     "items": []
   }
 ]
