@@ -1,0 +1,17 @@
+{
+  "hash": "682cf6a262f8b348f2179032db61a724",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Home\"\nheader-includes: \\usepackage{wrapfig}\n---\n\n\n\n\n# TALYAH PIERCE {#welcome}\n\nHi! I'm Talyah Pierce. I'm a City Planning graduate student at the University of Pennsylvania, focusing on urban data analytics and public-private development. Currently, I am an intern at the Reinvestment Fund, where I assist with data cleaning, analysis, and mapping housing data in the community development finance sector.\n\n<img src=\"\"me_picture.png\"\" \n     style=\"float: right; width: 250px; margin: 0 0 15px 20px;\">\n\n\n\n\n::: {.cell layout-align=\"L\"}\n\n:::\n\n\n\n\nAs an undergraduate, I studied Urban Studies and Data Science at the University of Pennsylvania, with coursework focused on public policy, real estate, and statistical and spatial analysis. Throughout my undergraduate career, I worked on a variety of research projects in international development, political science, and criminology, working with external organizations like the World Bank, the United Nations, and the NBC Decision Desk. For my senior thesis, I explored whether rapid transit access was associated with in-person voter turnout and whether this relationship varied with neighborhood poverty, qualifying for the Honors designation. Altogether, these experiences helped me develop strong quantitative and collaborative research skills, which I am seeking to contribute to areas of urban research, affordable housing development, and the community development finance sector.\n\nIn my free time, I enjoy biking, moderately challenging crossword puzzles, and playing the guitar.\n\n## WORK\n\n-   [**Academic Research**](Academic%20Research/index.qmd)\n-   [**Planning Projects**](Planning%20Projects/index.qmd)\n-   [**Resume**](Resume/Talyah%20Pierce%20-%20Resume.pdf)\n\n## CONTACT ME\n\ntalyah\\@sas.upenn.edu\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
