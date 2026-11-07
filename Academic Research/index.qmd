@@ -1,6 +1,6 @@
 ---
-title: "Weekly Notes"
-description: "Running notes from MUSA 5080."
+title: "Academic Research"
+description: ""
 listing:
   contents: "*.qmd"
   sort: "date desc"
@@ -10,5 +10,35 @@ listing:
   filter-ui: false
 ---
 
-Notes from each week of MUSA 5080. New entries appear here automatically —
-add a `.qmd` file to this folder and render.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.portfolio-card}
+![](trolley.png){.tile-image}
+
+::: {.tile-overlay}
+## Senior Thesis
+
+"Here is a shortened version of my undergraduate thesis exploring the relationship between rapid transit availability and in-person voter turnout in Philadelphia from 2021-2025, as moderated by socioeconomic status."
+
+[Explore](Thesis_UG.pdf){.stretched-link}
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.portfolio-card}
+![](images/projects.jpg){.tile-image}
+
+::: {.tile-overlay}
+## Projects
+
+GIS, urban analytics, and data visualization.
+
+[Explore](projects.qmd){.stretched-link}
+:::
+:::
+:::
+
+:::

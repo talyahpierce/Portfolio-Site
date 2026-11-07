@@ -25,9 +25,13 @@ format:
     toc: true
     code-fold: false
     code-tools: true
+    css: styles.css
 
 execute:
   freeze: auto
   echo: true
   warning: false
   message: false
+
+resources:
+    - "Academic Research/Thesis_UG.pdf"

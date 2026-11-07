@@ -1,6 +1,5 @@
 ---
 title: "Home"
-header-includes: \usepackage{wrapfig}
 ---
 
 # TALYAH PIERCE {#welcome}
@@ -21,4 +20,4 @@ In my free time, I enjoy biking, moderately challenging crossword puzzles, and p
 
 ## CONTACT ME
 
-talyah\@sas.upenn.edu
+talyah@sas.upenn.edu

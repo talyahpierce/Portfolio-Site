@@ -1,16 +1,14 @@
 [
   {
-    "listing": "/Academic Research/index.html",
-    "items": [
-      "/Academic Research/week-01.html"
-    ]
+    "listing": "/Resume/index.html",
+    "items": []
   },
   {
     "listing": "/Planning Projects/index.html",
     "items": []
   },
   {
-    "listing": "/Resume/index.html",
+    "listing": "/Academic Research/index.html",
     "items": []
   }
 ]
