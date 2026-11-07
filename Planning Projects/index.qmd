@@ -1,6 +1,6 @@
 ---
-title: "Assignments"
-description: "Graded work for MUSA 5080."
+title: "Planning Projects"
+description: ""
 listing:
   contents: "*.qmd"
   sort: "date desc"
@@ -10,5 +10,32 @@ listing:
   filter-ui: false
 ---
 
-Completed assignments for MUSA 5080. New assignments appear here automatically
-once you add the `.qmd` file to this folder and render.
+::::::::: grid
+::::: {.g-col-12 .g-col-md-6}
+:::: portfolio-card
+![](point_breeze_mural.png){.tile-image}
+
+::: tile-overlay
+## Point Breeze Report
+
+"Group project detailing the existing conditions of the Point Breeze neighborhood, Philadelphia. Co-wrote with Alexa Halim, Johnny Chen, and Maude Ceruso." 
+
+[See more](Point Breeze Report.pdf){.stretched-link}
+:::
+::::
+:::::
+
+::::: {.g-col-12 .g-col-md-6}
+:::: portfolio-card
+![](manayunk.png){.tile-image}
+
+::: tile-overlay
+## Manayunk Neighborhood Plan
+
+"Semester-long group planning project in the Manayunk neighborhood, Philadelphia. Group members listed in the report."
+
+[See more](Manayunk Plan.pdf){.stretched-link}
+:::
+::::
+:::::
+:::::::::
