@@ -22,21 +22,21 @@ listing:
 
 "Here is a shortened version of my undergraduate thesis exploring the relationship between rapid transit availability and in-person voter turnout in Philadelphia from 2021-2025, as moderated by socioeconomic status."
 
-[Explore](Thesis_UG.pdf){.stretched-link}
+[See more](Thesis_UG.pdf){.stretched-link}
 :::
 :::
 :::
 
 ::: {.g-col-12 .g-col-md-6}
 ::: {.portfolio-card}
-![](images/projects.jpg){.tile-image}
+![](garden.png){.tile-image}
 
 ::: {.tile-overlay}
-## Projects
+## Litter and Crime Experiment
 
-GIS, urban analytics, and data visualization.
+Research project investigating how litter impacts rates of gun violence in Philadelphia from 2017-2019 through the Penn Undergraduate Research Mentoring Program. Supervised by Dr. John MacDonald.
 
-[Explore](projects.qmd){.stretched-link}
+[See more](CJP_Lab_Poster.pdf){.stretched-link}
 :::
 :::
 :::
