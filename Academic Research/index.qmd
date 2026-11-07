@@ -20,7 +20,7 @@ listing:
 ::: {.tile-overlay}
 ## Senior Thesis
 
-"Here is a shortened version of my undergraduate thesis exploring the relationship between rapid transit availability and in-person voter turnout in Philadelphia from 2021-2025, as moderated by socioeconomic status."
+"Here is a shortened version of my undergraduate thesis exploring the relationship between rapid transit availability and in-person voter turnout in Philadelphia from 2021-2025, as moderated by socioeconomic status." 
 
 [See more](Thesis_UG.pdf){.stretched-link}
 :::
