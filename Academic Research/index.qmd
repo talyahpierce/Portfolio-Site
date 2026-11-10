@@ -1,13 +1,6 @@
 ---
 title: "Research Projects"
 description: ""
-listing:
-  contents: "*.qmd"
-  sort: "date desc"
-  type: default
-  fields: [title, date, description]
-  sort-ui: false
-  filter-ui: false
 ---
 
 ::::::::: {.grid}
@@ -49,9 +42,11 @@ Research project investigating how litter impacts rates of gun violence in Phila
 
 An assignment completed for the Public Policy Analytics course, investigating the statistical validity of claims using American Community Survey (ACS) data.
 
-[See more](assignment3.qmd){.stretched-link}
+[See more](assignment3.html){.stretched-link}
 :::
 :::
 :::::
 
 :::::::::
+
+

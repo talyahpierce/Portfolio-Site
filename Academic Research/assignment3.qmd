@@ -1,5 +1,16 @@
 
-
+---
+title: "Test the Claim!"
+subtitle: "Investigating a published claim about neighborhood change against the data behind it using American Community Survey data."
+author: "Talyah Pierce"
+date: today
+format:
+  html:
+    toc: true
+    code-fold: true
+    code-summary: "Show code"
+    embed-resources: true
+---
 ```{r}
 #| include: false
 
@@ -9,7 +20,6 @@ library(dplyr)
 library(ggplot2)
 library(gt)
 ```
----
 
 ## Getting started ##
 

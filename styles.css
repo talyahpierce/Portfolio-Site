@@ -28,6 +28,7 @@
   padding: 25px;
   opacity: 0;
   transition: opacity 0.3s ease;
+  z-index: 1;
 }
 
 /* Show overlay on hover */
@@ -35,6 +36,7 @@
   opacity: 1;
 }
 
+/* Overlay text styling */
 .portfolio-card .tile-overlay h2 {
   color: white;
   font-size: 1.5rem;
