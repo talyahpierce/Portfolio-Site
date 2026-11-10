@@ -15,7 +15,7 @@ In my free time, I enjoy biking, moderately challenging crossword puzzles, and p
 
 ## WORK
 
--   [**Academic Research**](Academic%20Research/index.qmd)
+-   [**Research Projects**](Academic%20Research/index.qmd)
 -   [**Planning Projects**](Planning%20Projects/index.qmd)
 -   [**Resume**](Resume/Talyah%20Pierce%20-%20Resume.pdf)
 

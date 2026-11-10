@@ -11,8 +11,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: Academic Research/index.qmd
-        text: "Academic Research"
+      - href: Research Projects/index.qmd
+        text: "Research Projects"
       - href: Planning Projects/index.qmd
         text: "Planning Projects"
     right:
@@ -34,4 +34,4 @@ execute:
   message: false
 
 resources:
-    - "Academic Research/Thesis_UG.pdf"
+    - "Research Projects/Thesis_UG.pdf"
